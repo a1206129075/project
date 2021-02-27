@@ -1,2 +1,0 @@
-# project
-some small projects.
